@@ -102,4 +102,4 @@ To follow along with the course, you will need the following:
 
 ## Contact
 
-For any questions or inquiries regarding the Machine Learning A-Z™ course, you can contact the course instructor at [info.mohitverse@gmail.com](mailto:info.mohitverse@gmail.com)
+For any questions or inquiries regarding the Machine Learning A-Z™ course, you can contact at [info.mohitverse@gmail.com](mailto:info.mohitverse@gmail.com)
